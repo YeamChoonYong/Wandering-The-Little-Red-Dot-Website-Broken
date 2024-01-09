@@ -889,7 +889,7 @@ table tr:nth-child(2){
 	margin: auto;
   }
 
-  .info {
+  .infoLog {
 	display: flex;
 	background-color: #fff;
 	height: 40px;
